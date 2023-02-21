@@ -1,3 +1,7 @@
+#chapter5~6(GUI 기초)
+
+#제비뽑기 프로그램
+
 import tkinter
 import random
 
